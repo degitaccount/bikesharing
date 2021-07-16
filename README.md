@@ -4,8 +4,7 @@
 This analysis provides information about Citibike utilization in New York City during August 2019.
 
 ## Results**
-You access may the complete analysis on [Tableau Public](https://public.tableau.com/app/profile/daniel.echevarria/viz/NYCitibikeAugustUtilization/CitibikeAugustUtilizationAnalysis?publish=yes) or simply review the highlights below.
-
+You access may the complete analysis on [Tableau Public](https://public.tableau.com/app/profile/daniel.echevarria/viz/NYCitibikeAugustUtilization/CitibikeAugustUtilizationAnalysis?publish=yes) or simply review the highlights below each image.    
 
 ![AugPeakHours.PNG](https://github.com/degitaccount/bikesharing/blob/main/images/1_AugPeakHours.PNG)
 
@@ -16,7 +15,6 @@ You access may the complete analysis on [Tableau Public](https://public.tableau.
 ![StartingLocations.PNG](https://github.com/degitaccount/bikesharing/blob/main/images/2_StartingLocations.PNG)
 
 * The top starting locations appear to be within Manhattan, whereas the northern half of the city and other surrounding areas appear to be less popular starting points
-
 
 ![Checkouttimesv1.png](https://github.com/degitaccount/bikesharing/blob/main/images/3_Checkouttimesv1.png)
 
